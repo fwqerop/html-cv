@@ -1,0 +1,121 @@
+.container {
+    background:gray;
+    width: 80vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.photo {
+    width: 150px;
+    height: 150px;
+}
+
+.name {
+    color:white;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main {
+    margin: 20px;
+    gap: 0px;
+}
+
+.daxzkaknazvat {
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Education {
+    margin: 60px;
+}
+
+.ent {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.IELTS{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fantasiazakonchilas {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.python {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.htmlcss {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.q {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.English {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Kazakh {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Russian {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+ .Turkish {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ .w {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.phone {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+ .email {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.location {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Skills {
+    margin: 60px;
+}
+
+.Languages {
+    margin: 60px;
+}
+
+.Contactme {
+    margin: 60px;
+}    
